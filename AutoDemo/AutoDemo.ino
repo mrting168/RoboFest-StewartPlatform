@@ -11,6 +11,9 @@ int pos=0;
 int rate=0; 
 int x=0;
 
+
+Peekaboo!
+
 int photoSensor1= A0;// 2 
 int photoSensor2= A1; //3
 int photoSensor3= A2; //1
