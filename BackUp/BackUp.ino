@@ -10,6 +10,9 @@ Servo Servo2R;
 Servo Servo3L;
 Servo Servo3R;
 
+
+//CHANGE BY SHELLY
+
 int pos=0;
 int rate=0; 
 int x=0;
